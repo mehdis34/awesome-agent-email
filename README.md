@@ -40,7 +40,7 @@ These connect an agent to an existing account. The agent can read and send as yo
 ### IMAP and SMTP (any provider)
 
 - [codefuturist/email-mcp](https://github.com/codefuturist/email-mcp) - IMAP and SMTP: read, search, send and manage mail.
-- [mehdis34/fezola-mcp](https://github.com/mehdis34/fezola-mcp) - Hosted remote MCP server for Gmail, iCloud and any IMAP mailbox, plus Google Chat and Telegram: read, search and draft replies across all your inboxes, never sends.
+- [mehdis34/fezola-mcp](https://github.com/mehdis34/fezola-mcp) - Hosted remote MCP server for Gmail, Outlook, iCloud and any IMAP mailbox, plus Google Chat, Telegram, Calendar, Notion and Google Ads: read, search and draft replies across all your inboxes (drafts by default, direct sending only if you enable it).
 - [nikolausm/imap-mcp-server](https://github.com/nikolausm/imap-mcp-server) - IMAP and SMTP for AI assistants: search, read, send and organise.
 
 ### Gmail and Google Workspace
